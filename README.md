@@ -11,7 +11,8 @@
 ## PHP Design Pattern Videos
 - [PHP Design Pattern (Burmese)](https://www.youtube.com/watch?v=HByVElWDeaQ&list=PLYuQaK0xqlLk1PPn5TmPOYmUarxrZmrN4&index=4) by Brighter Myanmar
 
-## PHP Autoload And Namespace
+## PHP Advanced
+- Namespace
 - Spl Autoload
 - Class Map Autoload
 - PSR-0 Autoload
