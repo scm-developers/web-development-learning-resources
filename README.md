@@ -16,8 +16,11 @@
     - [Laravel Daily Youtube](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
     - [Bitfumes](https://www.youtube.com/channel/UC_hG9fglfmShkwex1KVydHA)
     - [Codecourse](https://www.youtube.com/c/codecourse)
+    - [Andre Madarang](https://www.youtube.com/c/drehimself)
 - Javascript
   - [ES6](https://www.youtube.com/watch?v=_TCiBKki2is&list=PLgzczcvIi04P7xy8wcw1odJGuBzTYEzX7)
+  - Youtube
+    - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
 - Vuejs
   - [Vue Fundamentals](https://www.youtube.com/watch?v=NVnFWzVEBMA&list=PLgzczcvIi04PRf2h4ofMfNWP69dmBfXNr)
   - [Vue Components](https://www.youtube.com/watch?v=J8v0rsW2C98&list=PLgzczcvIi04N6k_tSvG9YAMr62xyaQrhz)
@@ -28,8 +31,23 @@
     - [Vue School](https://vueschool.io)
     - [Vue Mastery](https://www.vuemastery.com)
 - Design
+  - Youtube 
+    - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers/featured)
+    - [Tailwind Labs](https://www.youtube.com/c/TailwindLabs/featured) 
 - Tools
+  - Docker
+    - Youtube
+      - [Jake Wright](https://www.youtube.com/watch?v=YFl2mCHdv24&list=PLlj9BrHKq9WKaz8UV3BjEqicn-C3qHxy4&index=6)
+      - [Laravel + Docker by Andrew Schmelyun](https://www.youtube.com/watch?v=ozKxWsojYJ4&list=PL36CGZHZJqsWXjf4GeQBLUl7CK1dodKuC)  
 - AWS
+  - Youtube 
+    - [Onexlab](https://www.youtube.com/channel/UCLr7LxnkvAUYg1-AmCfW__g) 
+    - [Jackson Yuan](https://www.youtube.com/channel/UCbmBrWg8WX80aVa6EBA395A)
+
+- Other
+ - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+ - [Devdojo](https://www.youtube.com/c/Devdojo)
+ - [Code Tube](https://www.youtube.com/c/CodeTube)
 
 ## PHP Basic
 - [PHP Basic (Burmese)](https://www.youtube.com/watch?v=GU37Qf_Sycs&list=PLYuQaK0xqlLmCG8pDJecfNg8FObzTOIAl&index=45) by Brighter Myanmar
