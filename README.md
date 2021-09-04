@@ -45,9 +45,9 @@
     - [Jackson Yuan](https://www.youtube.com/channel/UCbmBrWg8WX80aVa6EBA395A)
 
 - Other
- - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
- - [Devdojo](https://www.youtube.com/c/Devdojo)
- - [Code Tube](https://www.youtube.com/c/CodeTube)
+  - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+  - [Devdojo](https://www.youtube.com/c/Devdojo)
+  - [Code Tube](https://www.youtube.com/c/CodeTube)
 
 ## PHP Basic
 - [PHP Basic (Burmese)](https://www.youtube.com/watch?v=GU37Qf_Sycs&list=PLYuQaK0xqlLmCG8pDJecfNg8FObzTOIAl&index=45) by Brighter Myanmar
